@@ -1,2 +1,5 @@
 #lecture 3 task 2
 print('hello world')
+
+#edit it for task 3
+task3 <- 'hey'
